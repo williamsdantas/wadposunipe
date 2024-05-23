@@ -1,0 +1,92 @@
+@charset "UTF-8";
+ 
+
+.cabecalho{
+	background-color:darkgray;
+	
+
+}
+
+body {
+	font-family: verdana;
+	margin-left: 5px;
+	background-color: white;
+	
+}
+
+.descricaogeral{
+	text-align: center;
+	font-size: 15px;
+}
+	
+h1 {
+  text-align: center;
+  
+}
+h2{
+	background-color: darkgray;
+}
+
+h3{
+  text-align: center;
+  background-color: lightgray;
+}
+
+.formatarparagrafo{
+  font-family: verdana;
+  font-size: 20px;
+  justify-content: center;
+}
+
+.menu{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	font-size: 15px;
+	cursor: pointer;
+	list-style: none;	
+}
+
+.divexperiencias{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	width: 100%;
+	
+}
+
+.container-pai{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	
+}
+
+.artigo{
+	
+	width: 20%;
+}
+
+
+
+.foto{
+	height: 160px;
+	width: 160px;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+}
+
+.fotoportifolio{
+	height: 200px;
+	width: 200px;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+}
+footer{
+	background-color: darkgray;
+}
