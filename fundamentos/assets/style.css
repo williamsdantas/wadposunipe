@@ -19,10 +19,20 @@ body {
 	
 }
 
-.descricaogeral{
+.titulo-profissao{
 	text-align: center;
 	font-size: 15px;
 	margin:0;
+	padding-bottom:20px;
+	
+	
+}
+
+.descricaocard{
+	text-align: center;
+	font-size: 12px;
+	padding:5px;
+	
 }
 	
 .titulo1 {
@@ -34,6 +44,7 @@ body {
 }	
 
 .titulo2{
+	font-size: 20px;
 	background-color: darkgray;
 	border-radius: 5px;
 	border: 1px solid lightgray; 
@@ -42,6 +53,7 @@ body {
 }
 
 .titulo3{
+	font-size: 14px;
   text-align: center;
   background-color: lightgray;
   border-radius: 5px;
@@ -75,6 +87,7 @@ body {
 	flex-wrap: wrap;
 	justify-content: space-around;
 	width: 100%;
+	margin-bottom:15px;
 	
 }
 
@@ -91,8 +104,8 @@ body {
 	border-radius: 5px;	
 	margin-left:5px;
 	margin-right:5px;
-	margin-bottom:8px;
-	margin-top:5px;
+	margin-bottom:15px;
+	margin-top:15px;
 }
 
 
@@ -128,6 +141,10 @@ footer{
 .listasimple{
 	list-style: none;
 }
+
+.listapadrao{
+	font-size: 12px;
+}
 .div-lateral{
 	width:15%;
 	border: 1px solid lightgray;
@@ -143,6 +160,7 @@ footer{
 
 .div-meio{
 	width:70%;	
+	
 }
 
 .borda{
@@ -150,5 +168,5 @@ footer{
 	border-radius: 5px;	
 	margin-left:5px;
 	margin-right:5px;
-	margin-bottom:8px;
+	margin-bottom:20px;
 }
