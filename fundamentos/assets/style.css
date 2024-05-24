@@ -37,12 +37,16 @@ body {
 	background-color: darkgray;
 	border-radius: 5px;
 	border: 1px solid lightgray; 
+	margin:0;
+	padding-left:10px;
 }
 
 .titulo3{
   text-align: center;
   background-color: lightgray;
   border-radius: 5px;
+  margin:0;
+  
 }
 
 .formatarparagrafo{
@@ -61,7 +65,7 @@ body {
 	padding-bottom:10px;
 	padding-right:20px;
 	padding-top:0;
-	margin:0;
+	margin:2px;
 	
 }
 
@@ -82,8 +86,13 @@ body {
 }
 
 .artigo{
-	
 	width: 20%;
+	border: 1px solid lightgray;
+	border-radius: 5px;	
+	margin-left:5px;
+	margin-right:5px;
+	margin-bottom:8px;
+	margin-top:5px;
 }
 
 
@@ -91,18 +100,16 @@ body {
 .foto{
 	height: 160px;
 	width: 160px;
-	margin-top: 5px;
-	margin-right: 5px;
-	margin-bottom: 5px;
-	margin-left: 5px;
+	margin: 5px;
 	border-radius: 50%;
 }
 
 .fotoportifolio{
-	width: 100%;
-  margin: auto;
-  display: block;
-  border-radius: 5px;
+	width: 95%;
+	margin: auto;
+	display: block;
+	border-radius: 5px;
+	margin: 5px;
 }
 footer{
 	background-color: darkgray;
@@ -124,24 +131,24 @@ footer{
 .div-lateral{
 	width:15%;
 	border: 1px solid lightgray;
-	margin-left:5px;
-	margin-right:5px;
 	border-radius: 5px;	
+	margin-bottom:8px;
 }
 .div-principal{
 	width:100%;
 	display: flex;
 	flex-direction: row;
-	
-	
-	
+	border-radius: 5px;	
 }
 
 .div-meio{
 	width:70%;	
+}
+
+.borda{
 	border: 1px solid lightgray;
+	border-radius: 5px;	
 	margin-left:5px;
 	margin-right:5px;
-	border-radius: 5px;
-	
+	margin-bottom:8px;
 }
