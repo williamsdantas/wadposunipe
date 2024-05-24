@@ -65,6 +65,7 @@ body {
   font-family: verdana;
   font-size: 15px;
   justify-content: center;
+  padding:5px;
 }
 
 .menu{
@@ -114,12 +115,11 @@ body {
 	height: 160px;
 	width: 160px;
 	margin: 5px;
-	border-radius: 50%;
+	border-radius: 5%;
 }
 
 .fotoportifolio{
 	width: 95%;
-	margin: auto;
 	display: block;
 	border-radius: 5px;
 	margin: 5px;
