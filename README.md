@@ -1,5 +1,5 @@
 # wadposunipe/fundamentos: Projeto inicial da pos-graduação, criado para registrar informações sobre as disciplinas do curso.
-O projeto de uma página estática de identificação pessoal e profissional, construido utilizando apenas HTML e CSS.
+O projeto de uma página web estática de identificação pessoal e profissional, construido utilizando apenas HTML e CSS.
 
 <h2>Pós em Desenvolvimento Web Full Stack da Unipê</h2>
 
