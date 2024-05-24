@@ -94,3 +94,14 @@ h3{
 footer{
 	background-color: darkgray;
 }
+.rodape{
+	list-style: none;
+	font-size: 15px;
+	padding: 20px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.listasimple{
+	list-style: none;
+}
