@@ -12,7 +12,7 @@ O projeto de uma página web estática de identificação pessoal e profissional
   <tr>
     <td>Fundamentos e Arquitetura Web</td>
     <td>Daniel Brandão</td>
-    <td></td>
+    <td>10.0</td>
   </tr>
   
 </table>
