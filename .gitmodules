@@ -1,0 +1,3 @@
+[submodule "arquitetura_fe/aulas/arquitetura_fe/aulas/arquitetura-fe"]
+	path = arquitetura_fe/aulas/arquitetura_fe/aulas/arquitetura-fe
+	url = https://github.com/neliofrazao/arquitetura-fe.git
